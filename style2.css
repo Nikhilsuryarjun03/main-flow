@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f8ff;  /* Light blue background */
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #3498db;  /* Dark blue background */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;  /* Increase heading size */
+  }
+  
+  main {
+    padding: 20px;
+    border: 5px solid #ddd; /* Gray border */
+    border-radius: 10px; /* Rounded corners */
+    margin: 0 auto;  /* Center content horizontally */
+  }
+  
+  footer {
+    background-color: #3498db;  /* Dark blue background */
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
